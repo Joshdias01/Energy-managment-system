@@ -19,16 +19,6 @@ An intelligent AI-powered energy management assistant that analyzes power consum
 ## 🚀 Live Demo
 
 🔗 **[Try it live here!](https://energy-managment-system.streamlit.app/)** 
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Query Results
-![Results](screenshots/results.png)
-
-### Visualizations
-![Charts](screenshots/charts.png)
 
 ## 🛠️ Tech Stack
 
