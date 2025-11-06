@@ -1,0 +1,288 @@
+date,region,duration_hours,cause,description,affected_customers,severity
+2024-01-02,East,11,Human Error,Configuration error,40664,High
+2024-01-02,North,5,Substation Problem,Control system failure,25751,Low
+2024-01-03,South,3,Grid Overload,Peak demand exceeded capacity,18048,Critical
+2024-01-12,North,18,Weather,Lightning strike on equipment,25482,Medium
+2024-01-12,South,1,Human Error,Incorrect switching operation,31436,High
+2024-01-13,West,9,Cyber Attack,DDoS attack on control system,3907,Medium
+2024-01-14,West,3,Grid Overload,Peak demand exceeded capacity,10235,Medium
+2024-01-15,North,17,Natural Disaster,Flood in power station,46904,Low
+2024-01-16,East,8,Substation Problem,Control system failure,47224,Medium
+2024-01-20,West,5,Human Error,Accidental equipment damage,49524,Low
+2024-01-21,East,2,Cable Fault,Cable insulation failure,48791,High
+2024-01-21,West,7,Substation Problem,Switchgear problem,1808,Low
+2024-01-21,South,7,Maintenance,Equipment upgrade and testing,46728,Low
+2024-01-24,South,3,Grid Overload,Circuit overload in residential area,24044,Medium
+2024-01-25,South,6,Human Error,Accidental equipment damage,10396,Low
+2024-01-26,North,9,Natural Disaster,Earthquake damaged infrastructure,17694,Medium
+2024-01-28,West,20,Natural Disaster,Wildfire near transmission lines,31462,Low
+2024-01-29,East,1,Transformer Issue,Overheating transformer,49428,High
+2024-01-31,East,2,Substation Problem,Substation equipment malfunction,37339,Medium
+2024-02-04,East,1,Grid Overload,Peak demand exceeded capacity,34826,Medium
+2024-02-04,East,14,Natural Disaster,Earthquake damaged infrastructure,10609,High
+2024-02-07,West,11,Cable Fault,Underground cable damage,41807,Medium
+2024-02-08,East,7,Natural Disaster,Flood in power station,48614,Low
+2024-02-08,North,15,Natural Disaster,Wildfire near transmission lines,38363,High
+2024-02-09,West,3,Cyber Attack,Unauthorized access attempt,43379,Low
+2024-02-11,North,3,Cyber Attack,DDoS attack on control system,25845,Low
+2024-02-14,North,3,Cyber Attack,DDoS attack on control system,35429,Low
+2024-02-14,West,7,Equipment Failure,Relay system error,6291,High
+2024-02-14,South,3,Maintenance,Preventive maintenance on transformers,35871,Medium
+2024-02-15,West,11,Natural Disaster,Earthquake damaged infrastructure,31606,High
+2024-02-17,North,2,Grid Overload,System overload during heatwave,46271,Medium
+2024-02-18,North,3,Human Error,Incorrect switching operation,17440,Low
+2024-02-19,South,11,Cyber Attack,Malware in SCADA system,6044,Medium
+2024-02-20,South,15,Weather,Lightning strike on equipment,36275,High
+2024-02-21,East,1,Equipment Failure,Circuit breaker failure,16063,Low
+2024-02-21,East,17,Weather,Storm damage to transmission lines,42258,Medium
+2024-02-22,West,4,Maintenance,Grid modernization work,45027,Medium
+2024-02-22,South,2,Cable Fault,Cable insulation failure,44643,Medium
+2024-02-23,South,9,Human Error,Configuration error,42441,Medium
+2024-02-25,North,2,Cyber Attack,Malware in SCADA system,15684,Medium
+2024-02-27,South,9,Cyber Attack,Unauthorized access attempt,40597,Medium
+2024-03-02,West,9,Cyber Attack,DDoS attack on control system,13141,Critical
+2024-03-02,North,18,Weather,Lightning strike on equipment,7033,High
+2024-03-04,North,1,Grid Overload,Circuit overload in residential area,2393,Medium
+2024-03-08,East,10,Transformer Issue,Transformer insulation breakdown,17982,Low
+2024-03-09,West,4,Natural Disaster,Flood in power station,39611,Medium
+2024-03-09,West,9,Substation Problem,Switchgear problem,44200,Medium
+2024-03-11,East,7,Cable Fault,Cable insulation failure,37174,Critical
+2024-03-13,North,3,Cable Fault,Underground cable damage,44238,Critical
+2024-03-14,East,5,Maintenance,Scheduled maintenance at power plant,47098,Low
+2024-03-16,West,1,Cable Fault,Underground cable damage,20450,Critical
+2024-03-17,South,1,Substation Problem,Control system failure,8410,Medium
+2024-03-20,West,2,Grid Overload,Peak demand exceeded capacity,42008,Low
+2024-03-21,North,7,Maintenance,Grid modernization work,7744,High
+2024-03-22,North,4,Equipment Failure,Relay system error,44984,Low
+2024-03-23,East,4,Cable Fault,Cable insulation failure,13731,High
+2024-03-25,North,7,Maintenance,Scheduled maintenance at power plant,49752,Low
+2024-03-25,North,6,Maintenance,Scheduled maintenance at power plant,14428,Low
+2024-03-27,East,2,Transformer Issue,Transformer oil leak,20574,Low
+2024-03-27,East,18,Weather,Heavy rainfall caused flooding,15272,Critical
+2024-03-27,South,6,Cyber Attack,DDoS attack on control system,13936,High
+2024-03-27,South,4,Cable Fault,Underground cable damage,32346,Critical
+2024-03-31,North,10,Equipment Failure,Transformer malfunction at substation,42048,High
+2024-04-01,West,5,Transformer Issue,Overheating transformer,16233,Critical
+2024-04-02,West,11,Substation Problem,Switchgear problem,5162,High
+2024-04-02,West,5,Transformer Issue,Overheating transformer,23684,Medium
+2024-04-02,West,10,Human Error,Configuration error,26493,Medium
+2024-04-03,South,1,Transformer Issue,Transformer insulation breakdown,13077,Medium
+2024-04-05,North,6,Substation Problem,Control system failure,25311,Medium
+2024-04-08,North,9,Equipment Failure,Generator breakdown,13309,High
+2024-04-10,North,1,Cyber Attack,Malware in SCADA system,23995,Medium
+2024-04-11,North,10,Cyber Attack,Malware in SCADA system,31474,Low
+2024-04-12,North,3,Grid Overload,Peak demand exceeded capacity,7294,Low
+2024-04-12,North,5,Substation Problem,Substation equipment malfunction,34489,Critical
+2024-04-12,North,6,Human Error,Configuration error,9287,Low
+2024-04-12,North,7,Cyber Attack,Malware in SCADA system,48570,Low
+2024-04-13,South,2,Cyber Attack,DDoS attack on control system,38909,Low
+2024-04-13,North,2,Cable Fault,Cable insulation failure,34234,Low
+2024-04-14,West,23,Weather,High winds damaged power poles,42526,Low
+2024-04-14,South,9,Substation Problem,Control system failure,7536,Low
+2024-04-14,West,10,Cable Fault,Cable insulation failure,17182,Low
+2024-04-16,East,5,Maintenance,Grid modernization work,29613,Critical
+2024-04-17,South,7,Equipment Failure,Relay system error,33585,Low
+2024-04-18,East,11,Transformer Issue,Overheating transformer,42872,Low
+2024-04-18,East,2,Transformer Issue,Transformer insulation breakdown,9289,Low
+2024-04-21,North,4,Human Error,Accidental equipment damage,42346,Medium
+2024-04-22,West,10,Equipment Failure,Generator breakdown,47446,High
+2024-04-22,North,5,Transformer Issue,Overheating transformer,22200,Low
+2024-04-23,West,4,Natural Disaster,Wildfire near transmission lines,12039,Critical
+2024-04-24,East,4,Cyber Attack,Unauthorized access attempt,8112,Medium
+2024-04-25,North,2,Cyber Attack,Unauthorized access attempt,7873,Medium
+2024-04-27,West,10,Substation Problem,Substation equipment malfunction,28865,High
+2024-04-29,North,7,Weather,High winds damaged power poles,21323,Critical
+2024-04-29,East,1,Cable Fault,Overhead line fault,38790,Low
+2024-05-02,South,19,Weather,High winds damaged power poles,38532,Medium
+2024-05-04,East,8,Cyber Attack,Unauthorized access attempt,47779,Medium
+2024-05-04,South,2,Cable Fault,Underground cable damage,25901,High
+2024-05-08,East,16,Weather,High winds damaged power poles,12060,Medium
+2024-05-09,West,2,Grid Overload,System overload during heatwave,33326,High
+2024-05-10,South,9,Human Error,Incorrect switching operation,6541,Medium
+2024-05-12,West,7,Equipment Failure,Relay system error,38883,Low
+2024-05-13,North,6,Cable Fault,Cable insulation failure,21852,Low
+2024-05-13,East,1,Substation Problem,Substation equipment malfunction,870,Low
+2024-05-14,South,6,Equipment Failure,Relay system error,15206,Low
+2024-05-17,South,2,Human Error,Accidental equipment damage,21890,High
+2024-05-19,North,7,Substation Problem,Control system failure,38399,Medium
+2024-05-24,North,17,Weather,Storm damage to transmission lines,36990,Medium
+2024-05-25,North,2,Grid Overload,System overload during heatwave,41134,Medium
+2024-05-28,North,7,Cable Fault,Underground cable damage,31820,High
+2024-05-30,West,9,Substation Problem,Control system failure,46280,Medium
+2024-06-01,South,6,Human Error,Incorrect switching operation,13046,Medium
+2024-06-01,South,5,Substation Problem,Control system failure,28919,Medium
+2024-06-02,West,6,Equipment Failure,Transformer malfunction at substation,34660,High
+2024-06-03,West,13,Natural Disaster,Wildfire near transmission lines,24432,Medium
+2024-06-03,South,11,Cyber Attack,Malware in SCADA system,21337,High
+2024-06-05,East,2,Grid Overload,System overload during heatwave,38828,Low
+2024-06-06,North,11,Human Error,Incorrect switching operation,5688,Low
+2024-06-07,North,18,Weather,Heavy rainfall caused flooding,20268,Low
+2024-06-11,East,2,Substation Problem,Substation equipment malfunction,1968,Low
+2024-06-11,South,9,Cable Fault,Cable insulation failure,41669,Medium
+2024-06-11,South,16,Weather,Lightning strike on equipment,27804,Low
+2024-06-14,South,9,Transformer Issue,Transformer oil leak,26701,Low
+2024-06-14,East,4,Transformer Issue,Transformer insulation breakdown,10631,Critical
+2024-06-15,West,8,Equipment Failure,Circuit breaker failure,8919,Medium
+2024-06-15,West,3,Human Error,Incorrect switching operation,13016,High
+2024-06-20,West,21,Weather,High winds damaged power poles,8512,High
+2024-06-21,West,7,Natural Disaster,Wildfire near transmission lines,29310,Medium
+2024-06-22,North,7,Maintenance,Equipment upgrade and testing,44162,Medium
+2024-06-24,West,4,Weather,Heavy rainfall caused flooding,27139,Low
+2024-06-24,South,5,Maintenance,Grid modernization work,46028,High
+2024-06-24,South,10,Equipment Failure,Generator breakdown,11610,Low
+2024-06-25,East,10,Cyber Attack,DDoS attack on control system,6320,High
+2024-06-25,South,1,Transformer Issue,Overheating transformer,39006,Medium
+2024-06-25,North,7,Cyber Attack,Unauthorized access attempt,11892,Medium
+2024-06-26,North,7,Weather,Heavy rainfall caused flooding,29156,Medium
+2024-06-26,East,1,Grid Overload,Peak demand exceeded capacity,15993,Medium
+2024-06-28,North,19,Weather,Lightning strike on equipment,38277,Medium
+2024-06-30,North,7,Cyber Attack,Unauthorized access attempt,29943,Medium
+2024-07-01,East,4,Human Error,Configuration error,25973,High
+2024-07-02,South,3,Cyber Attack,Malware in SCADA system,12475,Low
+2024-07-04,South,11,Substation Problem,Control system failure,3758,High
+2024-07-09,South,1,Equipment Failure,Relay system error,3912,Medium
+2024-07-09,West,7,Maintenance,Scheduled maintenance at power plant,41534,Low
+2024-07-12,West,5,Cyber Attack,DDoS attack on control system,33851,Critical
+2024-07-16,East,1,Grid Overload,Peak demand exceeded capacity,3186,Medium
+2024-07-16,East,14,Natural Disaster,Wildfire near transmission lines,14432,High
+2024-07-19,West,6,Maintenance,Scheduled maintenance at power plant,31613,Critical
+2024-07-20,West,7,Natural Disaster,Earthquake damaged infrastructure,12364,Low
+2024-07-21,South,2,Cable Fault,Underground cable damage,1055,Low
+2024-07-22,East,10,Cyber Attack,Malware in SCADA system,34707,High
+2024-07-23,East,9,Weather,Storm damage to transmission lines,40977,Low
+2024-07-27,North,7,Substation Problem,Substation equipment malfunction,23038,Low
+2024-07-29,South,1,Transformer Issue,Transformer oil leak,29901,High
+2024-07-30,West,15,Weather,High winds damaged power poles,23744,High
+2024-07-30,North,11,Equipment Failure,Transformer malfunction at substation,39284,Low
+2024-07-31,West,8,Substation Problem,Substation equipment malfunction,31615,High
+2024-07-31,West,3,Maintenance,Grid modernization work,10920,Medium
+2024-08-01,West,8,Human Error,Accidental equipment damage,13765,Low
+2024-08-03,East,5,Equipment Failure,Generator breakdown,47718,Critical
+2024-08-03,East,1,Grid Overload,Peak demand exceeded capacity,39063,Low
+2024-08-03,South,1,Cyber Attack,DDoS attack on control system,6077,High
+2024-08-04,North,10,Substation Problem,Substation equipment malfunction,39544,High
+2024-08-04,West,1,Cyber Attack,Unauthorized access attempt,47219,Medium
+2024-08-12,North,6,Maintenance,Scheduled maintenance at power plant,32134,Medium
+2024-08-12,South,11,Weather,High winds damaged power poles,22872,Medium
+2024-08-13,North,3,Cyber Attack,Unauthorized access attempt,18812,Critical
+2024-08-13,South,7,Human Error,Configuration error,49284,Medium
+2024-08-13,East,10,Natural Disaster,Wildfire near transmission lines,3023,Low
+2024-08-13,East,3,Cyber Attack,Malware in SCADA system,19062,Low
+2024-08-14,West,13,Natural Disaster,Flood in power station,31305,Low
+2024-08-14,South,5,Substation Problem,Substation equipment malfunction,26488,Critical
+2024-08-14,South,15,Natural Disaster,Flood in power station,3350,Medium
+2024-08-16,East,15,Natural Disaster,Earthquake damaged infrastructure,5909,High
+2024-08-17,West,10,Transformer Issue,Transformer insulation breakdown,13037,High
+2024-08-18,North,4,Cyber Attack,Malware in SCADA system,46644,Low
+2024-08-18,West,3,Maintenance,Grid modernization work,21041,Low
+2024-08-18,East,1,Grid Overload,Circuit overload in residential area,16393,Medium
+2024-08-19,West,6,Cyber Attack,DDoS attack on control system,12622,Medium
+2024-08-19,North,5,Cable Fault,Cable insulation failure,10964,Medium
+2024-08-22,South,19,Weather,Storm damage to transmission lines,45248,Critical
+2024-08-24,South,10,Human Error,Accidental equipment damage,36521,Low
+2024-08-24,South,3,Human Error,Configuration error,4641,High
+2024-08-24,East,12,Weather,Lightning strike on equipment,43954,Medium
+2024-08-27,West,10,Natural Disaster,Wildfire near transmission lines,34992,Low
+2024-08-29,North,7,Maintenance,Equipment upgrade and testing,25002,High
+2024-08-31,East,8,Substation Problem,Control system failure,19233,High
+2024-09-02,South,3,Cyber Attack,Unauthorized access attempt,4481,Medium
+2024-09-02,East,4,Cyber Attack,DDoS attack on control system,3263,Low
+2024-09-04,East,1,Human Error,Incorrect switching operation,9991,Medium
+2024-09-05,East,22,Natural Disaster,Earthquake damaged infrastructure,39326,High
+2024-09-08,East,7,Substation Problem,Switchgear problem,33977,Medium
+2024-09-09,North,6,Cyber Attack,Malware in SCADA system,17154,High
+2024-09-09,East,19,Natural Disaster,Flood in power station,19476,High
+2024-09-11,South,13,Natural Disaster,Wildfire near transmission lines,43219,Low
+2024-09-11,North,18,Natural Disaster,Flood in power station,40550,High
+2024-09-13,East,2,Grid Overload,Peak demand exceeded capacity,47131,Low
+2024-09-13,East,4,Transformer Issue,Transformer oil leak,32560,Medium
+2024-09-14,North,3,Grid Overload,System overload during heatwave,29166,High
+2024-09-15,West,10,Substation Problem,Substation equipment malfunction,22872,Critical
+2024-09-15,West,14,Natural Disaster,Wildfire near transmission lines,17032,High
+2024-09-18,South,1,Cyber Attack,Unauthorized access attempt,46912,Medium
+2024-09-18,East,5,Natural Disaster,Earthquake damaged infrastructure,44898,Low
+2024-09-19,West,7,Cyber Attack,DDoS attack on control system,25603,Medium
+2024-09-20,North,6,Transformer Issue,Transformer insulation breakdown,48136,Low
+2024-09-21,South,9,Weather,High winds damaged power poles,49042,Medium
+2024-09-24,South,10,Weather,Heavy rainfall caused flooding,38679,Low
+2024-09-27,North,4,Weather,Heavy rainfall caused flooding,24898,Medium
+2024-09-29,South,13,Natural Disaster,Earthquake damaged infrastructure,24661,Medium
+2024-09-30,East,13,Weather,Lightning strike on equipment,9596,Critical
+2024-10-02,East,2,Substation Problem,Substation equipment malfunction,8853,Critical
+2024-10-03,North,1,Grid Overload,Circuit overload in residential area,31098,Low
+2024-10-05,North,4,Equipment Failure,Circuit breaker failure,8360,Medium
+2024-10-06,West,5,Cyber Attack,Malware in SCADA system,8142,Critical
+2024-10-07,East,8,Transformer Issue,Transformer insulation breakdown,10950,Low
+2024-10-09,South,9,Natural Disaster,Earthquake damaged infrastructure,1813,Critical
+2024-10-09,South,12,Weather,Storm damage to transmission lines,14696,Medium
+2024-10-10,North,10,Equipment Failure,Relay system error,22801,Medium
+2024-10-14,West,21,Weather,Lightning strike on equipment,28184,High
+2024-10-15,North,12,Weather,Storm damage to transmission lines,27251,Medium
+2024-10-15,South,8,Weather,Heavy rainfall caused flooding,3333,Medium
+2024-10-16,South,2,Maintenance,Preventive maintenance on transformers,42598,Medium
+2024-10-16,East,6,Cyber Attack,Malware in SCADA system,10469,High
+2024-10-17,North,2,Grid Overload,Circuit overload in residential area,36574,High
+2024-10-18,North,5,Natural Disaster,Earthquake damaged infrastructure,6784,Medium
+2024-10-19,South,3,Maintenance,Grid modernization work,30786,Low
+2024-10-20,East,1,Transformer Issue,Transformer oil leak,37646,Critical
+2024-10-23,South,10,Natural Disaster,Flood in power station,45548,Low
+2024-10-24,South,2,Substation Problem,Control system failure,46141,Medium
+2024-10-25,North,7,Maintenance,Grid modernization work,38867,Medium
+2024-10-28,West,1,Cyber Attack,DDoS attack on control system,8924,Medium
+2024-10-28,South,14,Natural Disaster,Wildfire near transmission lines,35990,High
+2024-10-30,North,4,Cyber Attack,DDoS attack on control system,47169,Low
+2024-10-31,South,18,Natural Disaster,Wildfire near transmission lines,26381,Low
+2024-10-31,South,2,Equipment Failure,Relay system error,11262,Medium
+2024-11-01,East,8,Transformer Issue,Overheating transformer,32876,Critical
+2024-11-02,West,2,Cable Fault,Underground cable damage,37532,Medium
+2024-11-03,West,11,Substation Problem,Control system failure,16299,Medium
+2024-11-08,South,10,Cyber Attack,Malware in SCADA system,10641,Critical
+2024-11-08,North,9,Substation Problem,Substation equipment malfunction,38514,Medium
+2024-11-08,East,7,Maintenance,Equipment upgrade and testing,31480,Medium
+2024-11-09,East,6,Cable Fault,Cable insulation failure,44723,Low
+2024-11-13,East,6,Natural Disaster,Wildfire near transmission lines,11758,Low
+2024-11-15,North,8,Substation Problem,Switchgear problem,40330,Critical
+2024-11-16,North,4,Maintenance,Grid modernization work,34832,Medium
+2024-11-17,West,8,Cyber Attack,Unauthorized access attempt,38439,Low
+2024-11-17,South,3,Maintenance,Equipment upgrade and testing,26640,Low
+2024-11-19,South,4,Cable Fault,Underground cable damage,33622,Medium
+2024-11-20,West,11,Cyber Attack,DDoS attack on control system,46272,Medium
+2024-11-20,East,4,Transformer Issue,Transformer insulation breakdown,8459,Medium
+2024-11-21,South,3,Transformer Issue,Overheating transformer,23542,Low
+2024-11-21,East,3,Substation Problem,Control system failure,34989,Critical
+2024-11-21,North,6,Substation Problem,Switchgear problem,19573,High
+2024-11-23,North,4,Equipment Failure,Circuit breaker failure,7343,Low
+2024-11-23,East,7,Transformer Issue,Overheating transformer,42525,Medium
+2024-11-25,North,10,Substation Problem,Control system failure,6713,High
+2024-11-26,West,11,Natural Disaster,Flood in power station,10128,Low
+2024-11-27,East,9,Equipment Failure,Generator breakdown,10650,Medium
+2024-11-27,North,4,Cable Fault,Overhead line fault,632,Medium
+2024-11-28,North,19,Natural Disaster,Wildfire near transmission lines,41233,Low
+2024-11-29,West,7,Cyber Attack,Unauthorized access attempt,37508,Medium
+2024-11-29,West,4,Maintenance,Grid modernization work,26705,Medium
+2024-11-29,West,5,Human Error,Incorrect switching operation,16182,Medium
+2024-12-02,South,11,Cyber Attack,Malware in SCADA system,31044,Critical
+2024-12-02,East,17,Weather,Lightning strike on equipment,43574,High
+2024-12-03,East,3,Equipment Failure,Generator breakdown,28438,Medium
+2024-12-05,West,2,Human Error,Incorrect switching operation,12989,Low
+2024-12-05,North,8,Equipment Failure,Transformer malfunction at substation,28824,High
+2024-12-06,North,1,Grid Overload,Circuit overload in residential area,37401,Medium
+2024-12-06,West,17,Natural Disaster,Flood in power station,43538,Medium
+2024-12-08,North,17,Weather,High winds damaged power poles,41379,Medium
+2024-12-10,West,11,Cyber Attack,Malware in SCADA system,33661,High
+2024-12-11,South,11,Cyber Attack,DDoS attack on control system,23683,Low
+2024-12-12,West,1,Cyber Attack,DDoS attack on control system,13379,Medium
+2024-12-15,South,10,Cyber Attack,Unauthorized access attempt,33832,Low
+2024-12-16,East,5,Natural Disaster,Earthquake damaged infrastructure,30531,Low
+2024-12-17,East,4,Equipment Failure,Transformer malfunction at substation,11472,Low
+2024-12-18,South,2,Cable Fault,Cable insulation failure,39049,Medium
+2024-12-18,East,8,Cable Fault,Overhead line fault,12678,Medium
+2024-12-21,West,11,Substation Problem,Switchgear problem,27372,Low
+2024-12-22,North,19,Weather,Heavy rainfall caused flooding,29941,Low
+2024-12-22,North,11,Substation Problem,Control system failure,18240,High
+2024-12-23,South,2,Human Error,Accidental equipment damage,42331,Medium
+2024-12-24,West,19,Weather,Storm damage to transmission lines,42906,Low
+2024-12-24,North,6,Human Error,Configuration error,16751,Critical
+2024-12-25,North,7,Natural Disaster,Flood in power station,42257,Medium
+2024-12-27,North,4,Equipment Failure,Transformer malfunction at substation,37463,High
+2024-12-28,West,5,Natural Disaster,Wildfire near transmission lines,8137,Low
